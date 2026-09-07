@@ -1,0 +1,2 @@
+-- Olist Brazilian E-Commerce Analysis
+-- Initial data exploration
